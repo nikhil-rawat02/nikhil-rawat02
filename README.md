@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rawat</h1>
 <h3 align="center">A passionate frontend developer and also has good understanding of backend as well.</h3>
-
+<img align="right" width="400" src="https://github.com/nikhil-rawat02/nikhil-rawat02/blob/master/image1.gif" alt="git" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-rawat02&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-rawat02" /> </p>
 
 - 🔭 I’m currently working on [podcast application](https://github.com/nikhil-rawat02/podcast-app)
@@ -10,7 +10,7 @@
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **nikhilrawat00@gmail.com**
-<p align="left> <img src="https://github.com/nikhil-rawat02/nikhil-rawat02/blob/master/image1.gif" alt="git" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilrawat0212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilrawat0212" height="30" width="40" /></a>
