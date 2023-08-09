@@ -10,7 +10,7 @@
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **nikhilrawat00@gmail.com**
-
+<p align="left> <img src="https://github.com/nikhil-rawat02/nikhil-rawat02/blob/master/image1.gif" alt="git" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilrawat0212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilrawat0212" height="30" width="40" /></a>
@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-rawat02&show_icons=true&locale=en" alt="nikhil-rawat02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-rawat02&" alt="nikhil-rawat02" /></p>
