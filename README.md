@@ -23,5 +23,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-rawat02&show_icons=true&locale=en&layout=compact" alt="nikhil-rawat02" /></p>
 
+### Contributions
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-rawat02&show_icons=true&locale=en" alt="nikhil-rawat02" /></p>
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/nikhil-rawat02/nikhil-rawat02/blob/output/github-contribution-grid-snake.svg)
